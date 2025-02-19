@@ -19,7 +19,7 @@ nslookup microsoft.com
 nslookup netflix.com
 nslookup cloudflare.com
 nslookup openai.com
-nslookup cnn.com // ipv6 & ipv4 list 
+nslookup cnn.com 
 
 nslookup -type=CNAME www.youtube.com
 nslookup -type=CNAME www.apple.com
